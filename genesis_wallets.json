@@ -1,0 +1,14 @@
+{
+  "Alice": {
+    "private_key": "beb75bb86d2f76b486351429544b38b2962afe91dd3eaf851ab97bfe7e4c9410",
+    "address": "0x10403103949d0F99fab213F1e6d9E168989B9255"
+  },
+  "Bob": {
+    "private_key": "dd37d28202e1388e2535195195147d95d31751dba9d7e2be26b7ce211183ac75",
+    "address": "0x386b5d68A196b22D70aafCfBCaBf43318b481364"
+  },
+  "Charlie": {
+    "private_key": "484896fa70ce20fea13146f082d94677a838612bed025d64fc36445a99c2272e",
+    "address": "0x3C477b12A16690175E45DCF80B2F82d2864173D5"
+  }
+}
