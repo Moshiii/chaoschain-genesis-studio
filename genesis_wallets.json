@@ -10,5 +10,13 @@
   "Charlie": {
     "private_key": "484896fa70ce20fea13146f082d94677a838612bed025d64fc36445a99c2272e",
     "address": "0x3C477b12A16690175E45DCF80B2F82d2864173D5"
+  },
+  "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb7": {
+    "private_key": "4700da8ebcbaa57ad17308274e521ac7bc64c7e73184a0da22b4d802cc88492b",
+    "address": "0x797B1Aa056413Af3076c2fd9568d2f59F7D6c50C"
+  },
+  "0x20E7B2A2c8969725b88Dd3EF3a11Bc3353C83F70": {
+    "private_key": "c91f3aea3d4702da0dbcb1b51ee3c66950490301f1c33f3f331c9cc31dd22dcb",
+    "address": "0xc804c33A7aF338FD2d52c3cBfa388B1c3a18dfF9"
   }
 }
