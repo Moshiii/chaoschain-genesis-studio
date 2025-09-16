@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@coinbase/cdp-sdk": "^1.38.0",
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0"
+  },
+  "name": "chaoschain-genesis-studio",
+  "version": "1.0.0",
+  "description": "**The first end-to-end commercial prototype for the on-chain agent economy with x402 payments.**",
+  "main": "new_wallet.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosChain/chaoschain-genesis-studio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ChaosChain/chaoschain-genesis-studio/issues"
+  },
+  "homepage": "https://github.com/ChaosChain/chaoschain-genesis-studio#readme"
+}
